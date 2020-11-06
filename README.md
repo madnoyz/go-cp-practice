@@ -1,1 +1,1 @@
-# react-practice
+# GO Practice
